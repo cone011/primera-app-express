@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: primera-app-express
+  annotations:
+    github.com/project-slug: cone011/primera-app-express
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Entretenimiento
